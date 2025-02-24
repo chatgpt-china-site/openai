@@ -1,6 +1,6 @@
 # 【OpenAI】国内可用的 OpenAI ChatGPT 免费使用指南（支持 GPT-4，无需翻墙）【2月最新更新】
 
-> 更新于：2025年02月22日  
+> 更新于：2025年02月25日  
 
 本站整理收录了国内可用且免费的 OpenAI **ChatGPT 使用指南**，有需要的可自取。
 
@@ -24,14 +24,14 @@
 
 以下是精选的国内优质 **ChatGPT 中文版镜像网站**，无需翻墙就能使用：
 
-| ChatGPT 中文站        | 地址                             | 支持版本           | 免费额度 | 注册使用           | 稳定性  | 功能亮点                |
-|-------------------------|----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
-| 一下AI                  | [www.yixiaai.com](https://www.yixiaai.com/) | GPT-4、4o、o1      | 有       | 扫码          | 高      | 支持 AI 绘画、AI 助手、AI 插件、AI PPT 等 |
-| AI智慧岛               | [chat.lify.vip](https://chat.lify.vip/)      | GPT-4o、4o mini、o1 | 有       | 扫码          | 高      | 支持多模型，AI 写作、AI 编程、AI 办公  |
-| AI工具站               | [yixiaai.cn](https://yixiaai.cn/)           | GPT-4、o1           | 有       | 扫码          | 高      | 稳定快速，各种 AI 工具  |
-| AI指南                 | [guide1.lanjing.ai](https://guide1.lanjing.ai/) | GPT-4、o1           | 有       | 扫码          | 高      | AI 使用指南            |
-| 小鲸鱼GPT               | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | GPT-4、4o           | 有       | 扫码          | 中      | 界面简洁，易于使用      |
-| 蓝鲸AI                 | [lanjing.ai](https://lanjing.ai/)            | GPT-4、4o           | 有       | 扫码        | 中      | 适合初学者            |
+| ChatGPT 中文站        | 地址                              | 支持版本           | 免费额度 | 注册使用           | 稳定性  | 功能亮点                |
+|-------------------------|-----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
+| 一下AI                  | [chat.yixiaai.com](https://chat.yixiaai.com/) | GPT-4、4o、o1      | 有       | 扫码          | 高      | 支持 AI 绘画、AI 助手、AI 插件、AI PPT 等 |
+| AI智慧岛               | [chat.lify.vip](https://www.yixiaai.com/)       | GPT-4o、4o mini、o1 | 有       | 扫码          | 高      | 支持多模型，AI 写作、AI 编程、AI 办公  |
+| AI工具站               | [yixiaai.cn](https://yixiaai.cn/)            | GPT-4、o1           | 有       | 扫码          | 高      | 稳定快速，各种 AI 工具  |
+| AI指南                 | [guide1.lanjing.ai](https://guide1.lanjing.ai/)  | GPT-4、o1           | 有       | 扫码          | 高      | AI 使用指南            |
+| 小鲸鱼GPT               | [ai.lansejingyu.com](https://ai.lansejingyu.com/)  | GPT-4、4o           | 有       | 扫码          | 中      | 界面简洁，易于使用      |
+| 蓝鲸AI                 | [lanjing.ai](https://lanjing.ai/)             | GPT-4、4o           | 有       | 扫码        | 中      | 适合初学者            |
 
 ---
 
