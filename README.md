@@ -1,6 +1,6 @@
-# 【OpenAI】国内可用的 OpenAI ChatGPT 免费使用指南（支持 GPT-4，无需翻墙）【3月最新更新】
+![0308-1ok5](https://github.com/user-attachments/assets/e0422616-8bbf-42b5-9853-fcdf1b0a8a5a)# 【OpenAI】国内可用的 OpenAI ChatGPT 免费使用指南（支持 GPT-4，无需翻墙）【3月最新更新】
 
-> 更新日期：2025/03/08   
+> 更新日期：2025/03/11   
 
 本站整理收录了国内可用且免费的 OpenAI **ChatGPT 使用指南**，有需要的可自取。
 
