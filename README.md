@@ -1,12 +1,15 @@
 # 【OpenAI】国内可用的 OpenAI ChatGPT 免费使用指南（支持 GPT-4，无需翻墙）【3月最新更新】
 
-> 更新日期：2025/03/19   
+> 更新日期：2025/03/26   
 
 本站整理收录了国内可用且免费的 OpenAI **ChatGPT 使用指南**，有需要的可自取。
 
 在国内**无需翻墙**，就能直接在线使用的 **OpenAI** **ChatGPT 中文版的使用说明**
 
 助您在生活、学习和工作中高效使用 ChatGPT，并可无限使用 GPT-4、4o 和 o1 模型。
+
+**ChatGPT 中文版**：**[chat.yixiaai.com](https://chat.yixiaai.com)**   
+**ChatGPT 镜像网站**：**[chat.lanjing.ai](https://chat.lanjing.ai)**
 
 ---
 
