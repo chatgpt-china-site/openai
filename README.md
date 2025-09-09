@@ -1,6 +1,6 @@
-# 【OpenAI】国内可用的 OpenAI ChatGPT 免费使用指南（支持 GPT-4，无需翻墙）【6月最新更新】
+# 【OpenAI】国内可用的 OpenAI ChatGPT 免费使用指南（支持 GPT-4，无需翻墙）【9月最新更新】
 
-> 更新日期：2025/06/22   
+> 更新日期：2025/09/12
 
 本站整理收录了国内可用且免费的 OpenAI **ChatGPT 使用指南**，有需要的可自取。
 
@@ -9,7 +9,7 @@
 助您在生活、学习和工作中高效使用 ChatGPT，并可无限使用 GPT-4、4o 和 o1 模型。
 
 **ChatGPT 中文版**：**[xsimplechat.com](https://xsimplechat.com)**   
-**ChatGPT 镜像网站**：**[talk.lanjing.pro](https://talk.lanjing.pro)**
+**ChatGPT 镜像网站**：**[gpt.lanjing.pro](https://gpt.lanjing.pro)**
 
 ---
 
@@ -30,7 +30,7 @@
 | ChatGPT 中文站        | 地址                              | 支持版本           | 免费额度 | 注册使用           | 稳定性  | 功能亮点                |
 |-------------------------|-----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
 | 一下AI                  | [chat.yixiaai.com](https://xsimplechat.com/) | GPT-4、4o、o1      | 有       | 扫码          | 高      | 支持 AI 绘画、AI 助手、AI 插件、AI PPT 等 |
-| AI智慧岛               | [chat.lify.vip](https://talk.lanjing.pro/)       | GPT-4o、4o mini、o1 | 有       | 扫码          | 高      | 支持多模型，AI 写作、AI 编程、AI 办公  |
+| AI智慧岛               | [chat.lify.vip](https://gpt.lanjing.pro/)       | GPT-4o、4o mini、o1 | 有       | 扫码          | 高      | 支持多模型，AI 写作、AI 编程、AI 办公  |
 | AI工具站               | [yixiaai.cn](https://yixiaai.cn/)            | GPT-4、o1           | 有       | 扫码          | 高      | 稳定快速，各种 AI 工具  |
 | AI指南                 | [guide1.lanjing.ai](https://chat.yixiaai.com/)  | GPT-4、o1           | 有       | 扫码          | 高      | AI 使用指南            |
 | 小鲸鱼GPT               | [ai.lansejingyu.com](https://ai.lansejingyu.com/)  | GPT-4、4o           | 有       | 扫码          | 中      | 界面简洁，易于使用      |
@@ -66,7 +66,7 @@
 
 ## 如何使用 OpenAI ChatGPT 中文网站？
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([talk.lanjing.pro](https://talk.lanjing.pro/))** 或**AI智慧岛 ([xsimplechat.com](https://xsimplechat.com/))**。
+1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([gpt.lanjing.pro](https://gpt.lanjing.pro/))** 或**AI智慧岛 ([xsimplechat.com](https://xsimplechat.com/))**。
 2. **注册使用**：无需注册，按照提示用微信扫码即可。
 3. **选择ChatGPT模型**：根据需求选择GPT-4、GPT-3.5或GPT-4o、o1模型。
 4. **输入问题**：在聊天界面输入问题或任务，即可收到智能回答。
@@ -89,7 +89,7 @@
 
 5. **哪些站点适合新手？**  
    - **一下AI ([xsimplechat.com](https://xsimplechat.com/))**：非常适合新手。
-   - **AI智慧岛 ([talk.lanjing.pro](https://talk.lanjing.pro/))**：功能多样，适合有更高需求的用户。
+   - **AI智慧岛 ([gpt.lanjing.pro](https://gpt.lanjing.pro/))**：功能多样，适合有更高需求的用户。
 
 ---
 
